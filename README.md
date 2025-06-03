@@ -3,6 +3,12 @@
 **CashHand Wallet** é uma carteira 100% **non-custodial** para o token $CashHand na Binance Smart Chain ou para qualquer outro token (BSC).  
 Toda a lógica de criação e importação é feita diretamente no navegador do usuário, com criptografia local da chave privada.
 
+🚀 **Acesse a versão WebApp da Wallet via Telegram:**  
+👉 [https://t.me/cashhand_bot](https://t.me/cashhand_bot)
+
+> Totalmente integrada com Telegram WebApp, segura e não custodial.
+
+
 ## 🚀 Funcionalidades
 
 - Criação de carteiras com Web3.js
